@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Why do pumpkins sit on people's porches?")})();

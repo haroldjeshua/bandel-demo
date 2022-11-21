@@ -1,0 +1,24 @@
+{
+  "name": "bandel-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haroldjeshua/bandel-demo.git"
+  },
+  "keywords": [],
+  "author": "Harv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haroldjeshua/bandel-demo/issues"
+  },
+  "homepage": "https://github.com/haroldjeshua/bandel-demo#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
+  }
+}
