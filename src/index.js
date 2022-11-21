@@ -6,6 +6,7 @@ const logoImg = document.querySelector("#logoImg");
 
 logoImg.src = logo;
 
-console.log(generateJoke());
-console.log("12345");
-console.log("67890");
+const jokeBtn = document.getElementById("jokeBtn");
+jokeBtn.addEventListener("click", generateJoke);
+
+generateJoke();
